@@ -1,5 +1,5 @@
 # linear-reg
-- This linear regression class has 3 functions:
+- This linear regression class provides the option to tune the hyperparameters without worrying about overfitting, it has 3 functions:
 #### Fit Function:
 This is where all the math happens
 #### Predict Function:
@@ -21,6 +21,6 @@ MSE is used in the score function to measure the difference between the predicte
 The fit function relies on these
 - Data Splitting (Training and Validation Sets): 
 The code splits the input data into training and validation sets to train the model and monitor its performance on unseen data.
-
 - Visualization (Matplotlib): 
 The code uses Matplotlib for visualizing the loss curve during training.
+  
