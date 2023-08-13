@@ -1,10 +1,10 @@
-# linear-reg
+## linear-reg
 This linear regression class has 3 functions:
-# Fit Function:
+### Fit Function:
 This is where all the math happens
-# Predict Function:
+### Predict Function:
 This is where we predict the outcome given some data
-# Score Fucntion:
+#### Score Fucntion:
 This function evaluates the predictions made based on mean squared error technique
 
 ## Techniques Used:
